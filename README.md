@@ -12,5 +12,5 @@ Greetings! Welcome to my GitHub profile, where innovation meets excellence. Here
 
 ## Get in Touch
 - **Email:** timdrury2020@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/timothy-tc-drury-6a869024a/]
+- **LinkedIn:** [Timothy C. Drury](https://www.linkedin.com/in/timothy-tc-drury-6a869024a/)
 
