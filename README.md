@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Greetings! Welcome to my GitHub profile, where innovation meets excellence. Here, you'll discover a curated collection of my projects, contributions, and insights in my experience as a student in Mechanical Engineering, Computer Science, and Robotics.
+Hello there! Here, you'll discover a collection of my projects, contributions, and insights in my experience as a student in Mechanical Engineering, Computer Science, and Robotics.
 
 ## About Me
 - **Name:** Timothy C. Drury
