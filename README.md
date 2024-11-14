@@ -5,7 +5,7 @@ Hello there! Here, you'll discover a collection of my projects, contributions, a
 ## About Me
 - **Name:** Timothy C. Drury
 - **Interests:** Robotics and Automation
-- **Profession:** BS/MEng Student at Oregon State University
+- **Profession:** Mechanical Engineering BS/MS Student at Oregon State University
 
 ## What You'll Find Here
 - **Projects:** Delve into my portfolio which includes some of my robotics coursework and capstone projects.
