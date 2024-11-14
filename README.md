@@ -8,7 +8,7 @@ Hello there! Here, you'll discover a collection of my projects, contributions, a
 - **Profession:** Mechanical Engineering BS/MS Student at Oregon State University
 
 ## What You'll Find Here
-- **Projects:** Delve into my portfolio which includes some of my robotics coursework and capstone projects.
+- **Projects:** portfolio which includes some of my robotics coursework and capstone projects.
 
 ## Get in Touch
 - **Email:** timdrury2020@gmail.com
